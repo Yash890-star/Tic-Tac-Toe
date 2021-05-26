@@ -1,0 +1,40 @@
+body{
+    font-size: 50px;
+}
+.row{
+    margin-left: 34%;
+}
+.nav-bar{
+    margin-top: 10%;
+    
+}
+.row{
+    margin-right: 0px;
+}
+.row button{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 60px;
+    background-color: white;
+    border: 0px white solid;
+    font-size: 50px;
+    border-bottom: 2px #2ecc71 solid;
+    padding: 10px 30px;
+
+}
+.resetGame{
+    padding: 10px 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 60px;
+    background-color: white;
+    border: 0px white solid;
+    font-size: 30px;
+    border: 2px #2ecc71 solid;
+    border-radius: 50px;
+    margin-left: 45.5%;
+}
+.resetGame:hover{
+    border: 2px #e67e22 solid;
+    transition: 0.5s;
+}
